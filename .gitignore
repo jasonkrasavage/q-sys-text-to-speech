@@ -1,0 +1,75 @@
+# Crestron SIMPL Files
+*.ASV
+*.arcv
+*.sig
+*.hash
+*.smft
+*.lpz
+*.umc2
+*.um2
+*.sm2
+
+# Crestron SIMPL+ Files
+SPlsWork
+# *.ush
+
+# Crestron VTPro Files
+*.vtp
+*.vtz
+*.c3prj
+# *.ced
+# *.sgd
+
+# Need these in the repo for job work until we work out CBH integration
+# *.clz
+# *.pdf
+
+# Crestron Simpl# Files
+SIMPLSharpLogs
+bin
+obj
+StyleCop.Cache
+
+# Amx Files
+*.src
+*.tkn
+*.tko
+*.axw
+
+# Generic Files
+*.zip
+
+
+# Generated Files
+*.dll
+*.suo
+*.projectinfo
+*.vsmdi
+*.csproj.user
+*.testrunconfig
+*.sln.cache
+
+# test result files
+results.xml
+junit-results.xml
+coverage/
+**/externalLib/*
+TestResult.xml
+
+# Build paths
+.releases
+node_modules/
+.cbh/
+*/packages/**
+
+# Microsoft Office files
+~$*.doc*
+~$*.xsl*
+~$*.ppt*
+*.xlk
+
+# Entire Directy for Ignoring random other files
+.ignore
+
+# Ignore build properties file
+build.properties

@@ -1,0 +1,17 @@
+*.vtp filter=lfs diff=lfs merge=lfs -text
+*.vta filter=lfs diff=lfs merge=lfs -text
+*.clz filter=lfs diff=lfs merge=lfs -text
+
+*.smw binary
+*.umc binary
+*.ush eol=crlf
+*.usp eol=crlf
+*.usl eol=crlf
+
+*.tp4 filter=lfs diff=lfs merge=lfs -text
+*.tp5 filter=lfs diff=lfs merge=lfs -text
+*.TP4 filter=lfs diff=lfs merge=lfs -text
+*.TP5 filter=lfs diff=lfs merge=lfs -text
+*.jar filter=lfs diff=lfs merge=lfs -text
+
+*.qsys filter=lfs diff=lfs merge=lfs -text

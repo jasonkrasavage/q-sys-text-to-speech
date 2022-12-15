@@ -1,0 +1,1 @@
+table.insert( wiring, { "Audio Output", "audio_player Track 1" } )
