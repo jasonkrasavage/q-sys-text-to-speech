@@ -1,6 +1,6 @@
 # Open Source Text to Speech for Q-SYS
 
-![MIT License](https://img.shields.io/badge/license-MIT-green)&nbsp;![9.4.3](https://img.shields.io/badge/tested%20on-9.4.3-blue)&nbsp;![9.4.3](https://img.shields.io/badge/tested%20on-9.6.0-blue)&nbsp;![Downloads](https://img.shields.io/github/downloads/jasonkrasavage/q-sys-text-to-speech/total)
+![MIT License](https://img.shields.io/badge/license-MIT-green)&nbsp;![9.4.3](https://img.shields.io/badge/tested%20on-9.4.3-blue)&nbsp;![9.4.3](https://img.shields.io/badge/tested%20on-9.6.0-blue)&nbsp;![Downloads](https://img.shields.io/github/downloads/jasonkrasavage/q-sys-text-to-speech/total.svg)
 
 <img src="/q-sys_logo_transparent_bg.png" width="300px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/deepmind_transparent_bg.png" width="300px">
 
